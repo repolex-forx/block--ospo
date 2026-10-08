@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/ospo/commit/35c8aeff14f09e5f70a9f08c8ee5cee7daea2205",
       "git:hexsha": "35c8aeff14f09e5f70a9f08c8ee5cee7daea2205",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
